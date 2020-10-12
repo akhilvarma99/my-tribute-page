@@ -1,0 +1,30 @@
+.wrapper {
+  background-color: #eee;
+  text-align: center;
+  margin: 20px;
+  padding-top: 20px;
+  border-radius: 2px;
+}
+
+.about,
+.image {
+  border: solid #ddd;
+  border-width: 0.05px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+}
+img {
+  border-radius: 2%;
+}
+
+.leftname {
+  text-align: left;
+}
+
+.imagetext {
+  background-color: #b4b3b4;
+}
+
+#coded {
+  padding-left: 20px;
+}
